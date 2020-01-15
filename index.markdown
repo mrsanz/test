@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+Welcome to our community.
+Join our community slack channel [#community-slack][chat]
+Join our organizers slack channel [#community-slack-organizers][organizers]
+
+{% include links.md %}
