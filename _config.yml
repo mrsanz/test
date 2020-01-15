@@ -36,6 +36,7 @@ links:
   organizers: https://slack.com/
   folder: https://drive.google.com/drive/folders/
   calendar: https://calendar.google.com/calendar?hash
+  
 plugins:
   - jekyll-feed
 
